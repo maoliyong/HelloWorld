@@ -1,6 +1,6 @@
 class mainClass(){
   public void test(){
-    System.out.printli("è¿™æ˜¯ä¸€ä¸ªæµ‹è¯•ç±»ï¼")
-    System.out.println("åœ¨æœ¬åœ°ä»“åº“å†æ‰“å!")	
+    System.out.printli("µÚÒ»´ÎÖĞÎÄÀ´µÄ")
+    System.out.println("zh_ch+utf-8!ÕâÊÇµÚ¶ş´Î")	
  }
 }
