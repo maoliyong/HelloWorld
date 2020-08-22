@@ -1,0 +1,5 @@
+class mainClass(){
+  public void test(){
+    System.out.printli("这是一个测试类！")
+  }
+}
