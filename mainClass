@@ -1,6 +1,8 @@
 class mainClass(){
   public void test(){
     System.out.printli("第一次中文来的")
-    System.out.println("zh_ch+utf-8!这是第二次")	
+    System.out.println("zh_ch+utf-8!这是第二次
+    system.out.println("zh_ch+utf-8+全局utf-8")
+    ")	
  }
 }
